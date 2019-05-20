@@ -1,6 +1,6 @@
 # vue-test
 
-> A Vuejs Test
+> A Vuejs Test Example
 
 ## Test requirements
 
